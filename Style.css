@@ -1,0 +1,51 @@
+.all{
+    border: 3px solid black;
+    width: 50%;
+}
+h1{
+    padding-left: 3%;
+}
+.news{
+    /* border: 2px solid ; */
+    margin: 1%;
+    padding: 1%;
+    padding-bottom: 1%;
+}
+#text{
+    padding: 0.5% 73% 0.5% 2%;
+    text-align: left;
+}
+.contain,.contain1 {
+    background-color: rgb(187, 179, 179);
+    padding: 2%;
+}
+button{
+    margin: 2%;
+    align-items: center;
+    padding: 0.5% 43% 0.5% 44% ; 
+    background-color: rgb(103, 221, 103);
+}
+.contain1{
+    text-align: center;
+}
+span{
+    display: inline-block;
+}
+.chechbox{
+    float:left;
+ 
+}
+h6{
+    display: inline-block;
+    font-size: 0.67em;
+    margin-block-start: em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   
+}
+button:hover{
+    cursor: pointer;
+    background-color: brown;
+    color: rgb(154, 102, 202);
+}
